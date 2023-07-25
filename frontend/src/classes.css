@@ -1,0 +1,13 @@
+.span{
+    color: #162b4e;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.outliners:focus{
+    outline-color: #162b4e;
+}
+.span-ray{
+    color: #5fcf87;
+}
